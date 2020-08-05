@@ -29,7 +29,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LiamTownsley&show_icons=true&hide_border=true" />
 
----
-
 [website]: https://liamtownsley.me/
 [twitter]: https://twitter.com/LiamTownsley_
