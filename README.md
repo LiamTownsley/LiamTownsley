@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Liam
 
-## I'm a passionate developer from Scotland.
+## I'm a developer from Scotland.
 - 🔭 I’m currently working on learning Unity.
 - 🌱 I’m currently learning C#, Unity Engine & Website Development.
 - 👯 I’m looking to collaborate on any project, just contact me.
