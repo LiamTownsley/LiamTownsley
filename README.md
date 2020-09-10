@@ -2,7 +2,7 @@
 
 ## I'm a developer from Scotland.
 - 🔭 I’m currently working on learning Unity.
-- 🌱 I’m currently learning C#, Unity Engine & Website Development.
+- 🌱 I’m currently learning C#, Unity Engine & VueJS.
 - 👯 I’m looking to collaborate on any project, just contact me.
 - 🤔 I’m looking for help with C#
 
